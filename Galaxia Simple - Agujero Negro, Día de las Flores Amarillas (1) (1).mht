@@ -1,0 +1,107 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://cdn.dedicacodes.com/t/galaxia-nebulosa-flores-amarillas/1.0.0/index.html
+Subject: =?utf-8?Q?Galaxia=20Simple=20-=20Agujero=20Negro,=20D=C3=ADa=20de=20las?=
+ =?utf-8?Q?=20Flores=20Amarillas?=
+Date: Mon, 21 Sep 2026 21:32:30 -0500
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--V0l7pgetwdF7GyVgpbyGE28FKuB5DHBnjFmVBiESJN----"
+
+
+------MultipartBoundary--V0l7pgetwdF7GyVgpbyGE28FKuB5DHBnjFmVBiESJN----
+Content-Type: text/html
+Content-ID: <frame-3C829CA730EAC0E52507B1984232C4BD@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://cdn.dedicacodes.com/t/galaxia-nebulosa-flores-amarillas/1.0.0/index.html
+
+<!DOCTYPE html><html lang="es"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-0cf5b2db-0fd3-4edf-bb2f-54bef48b046a@mhtml.blink" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<!-- DEDICA:META -->
+<title>Galaxia Simple - Agujero Negro, Día de las Flores Amarillas</title>
+<meta name="description" content="Una galaxia sencilla con agujero negro, anillo dorado y fotos flotando entre frases del Día de las Flores Amarillas.">
+<link rel="icon" href="data:image/svg+xml,&lt;svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'&gt;&lt;text y='.9em' font-size='90'&gt;%F0%9F%8C%BB&lt;/text&gt;&lt;/svg&gt;">
+<!-- DEDICA:PRELOAD -->
+<link rel="preconnect" href="https://fonts.googleapis.com/">
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=Indie+Flower&amp;display=swap" rel="stylesheet">
+
+</head>
+<body>
+<canvas id="c" data-engine="three.js r148" width="720" height="1432" style="width: 360px; height: 716px;"></canvas>
+
+<h1 id="main-title">Feliz Día de las Flores Amarillas 🌻</h1>
+
+<div id="start-screen" class="hidden" style="display: none;">
+  <div id="start-heart" aria-hidden="true">🌻</div>
+  <div id="start-text">Toca para iniciar</div>
+</div>
+
+<audio id="audio" loop="">
+  <source src="https://cdn.dedicacodes.com/t/galaxia-nebulosa-flores-amarillas/1.0.0/assets/musica.mp3" type="audio/mpeg">
+</audio>
+
+
+
+<!-- DEDICA:CONFIG -->
+
+
+
+
+
+</body></html>
+------MultipartBoundary--V0l7pgetwdF7GyVgpbyGE28FKuB5DHBnjFmVBiESJN----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap
+
+@charset "utf-8";
+
+@font-face { font-family: "Indie Flower"; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/indieflower/v24/m8JVjfNVeKWVnh3QMuKkFcZVZ0uH99GUDs4k.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Indie Flower"; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/indieflower/v24/m8JVjfNVeKWVnh3QMuKkFcZVaUuH99GUDg.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+------MultipartBoundary--V0l7pgetwdF7GyVgpbyGE28FKuB5DHBnjFmVBiESJN----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-0cf5b2db-0fd3-4edf-bb2f-54bef48b046a@mhtml.blink
+
+@charset "utf-8";
+
+* { box-sizing: border-box; }
+
+html, body { margin: 0px; height: 100%; background: rgb(0, 0, 0); overflow: hidden; user-select: none; -webkit-tap-highlight-color: transparent; }
+
+canvas { display: block; }
+
+#main-title { position: fixed; top: 40px; left: 0px; right: 0px; width: 100%; font-size: 2.6em; color: rgb(255, 250, 205); white-space: nowrap; text-shadow: rgb(255, 215, 0) 0px 0px 10px, rgb(255, 165, 0) 0px 0px 18px; z-index: 10; pointer-events: none; text-align: center; font-family: "Indie Flower", "Bradley Hand", "Segoe Script", cursive; }
+
+@media (max-width: 768px) {
+  #main-title { font-size: 1.55em; top: 22px; white-space: normal; padding: 0px 10px; line-height: 1.15; }
+}
+
+#start-screen { position: fixed; top: 0px; left: 0px; width: 100%; height: 100%; background: rgb(0, 0, 0); display: flex; justify-content: center; align-items: center; flex-direction: column; color: rgb(255, 255, 255); z-index: 9999; padding: 20px; cursor: pointer; transition: opacity 0.7s, visibility 0.7s; }
+
+#start-screen.hidden { opacity: 0; visibility: hidden; pointer-events: none; }
+
+#start-heart { font-size: clamp(74px, 23vmin, 148px); line-height: 1; display: block; filter: drop-shadow(rgba(255, 215, 0, 0.75) 0px 0px 14px) drop-shadow(rgba(255, 165, 0, 0.38) 0px 0px 36px) drop-shadow(rgba(218, 165, 32, 0.22) 0px 0px 66px); animation: 1.35s ease-in-out 0s infinite normal none running latido; transform-origin: 50% 55%; }
+
+@keyframes latido { 
+  0%, 100% { transform: scale(1); }
+  12% { transform: scale(1.15); }
+  24% { transform: scale(1); }
+  36% { transform: scale(1.07); }
+  50% { transform: scale(1); }
+}
+
+#start-text { font-size: 1.8em; color: rgb(255, 250, 205); font-family: "Indie Flower", "Bradley Hand", "Segoe Script", cursive; text-shadow: rgb(255, 215, 0) 0px 0px 7px; text-align: center; margin-top: clamp(16px, 3.5vh, 28px); animation: 2.2s ease-in-out 0s infinite normal none running parpadeo; }
+
+@keyframes parpadeo { 
+  0%, 100% { opacity: 0.55; }
+  50% { opacity: 1; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  #start-heart, #start-text { animation: auto ease 0s 1 normal none running none; }
+}
+------MultipartBoundary--V0l7pgetwdF7GyVgpbyGE28FKuB5DHBnjFmVBiESJN------
